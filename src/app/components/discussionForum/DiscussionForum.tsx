@@ -72,8 +72,8 @@ const DiscussionForum = () => {
                     <div key={idx} className='flex gap-4 p-1 px-4 mt-11 items-start justify-start bg-white '
                         style={{ boxShadow: "rgba(0, 0, 0, 0.16) 0px 3px 0px, rgba(0, 0, 0, 0.23) 3px 3px 3px" }}
                     >
-                        <div className='size-12 pl-2'>
-                            <Image src={item?.image} alt='' className='bg-gray-900 rounded-full ' width={60} height={60} />
+                        <div className='pl-2'>
+                            <Image src={item?.image} alt='' className='bg-gray-900 rounded-full w-24 h-10  lg:w-16 lg:h-12 ' width={100} height={100} />
                         </div>
                         <div className='grid gap-2 py-2'>
                             <div className='flex justify-between items-center'>
