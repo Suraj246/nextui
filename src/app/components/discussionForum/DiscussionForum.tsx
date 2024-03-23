@@ -21,7 +21,7 @@ const DiscussionForum = () => {
     // discussion posts data
     const discussionData: discussionType[] = [
         {
-            image: "",
+            image: "/snow.jpg",
             name: "lorem ipsum",
             content: "Lorem ipsum dolor sitmus sed temporibus magnam doloremque iure dolores accusantium repellat, mollitia expedita eum unde esse. Sit, natus!",
             likes: "2",
@@ -30,7 +30,7 @@ const DiscussionForum = () => {
             time: "2"
         },
         {
-            image: "",
+            image: "/snow.jpg",
             name: "lorem ipsum",
             content: "Lorem ipsum dolor sitmus sed temporibus magnam doloremque iure dolores accusantium repellat, mollitia expedita eum unde esse. Sit, natus!",
             likes: "2",
@@ -39,7 +39,7 @@ const DiscussionForum = () => {
             time: "2"
         },
         {
-            image: "",
+            image: "/snow.jpg",
             name: "lorem ipsum",
             content: "Lorem ipsum dolor sitmus sed temporibus magnam doloremque iure dolores accusantium repellat, mollitia expedita eum unde esse. Sit, natus!",
             likes: "2",
@@ -48,7 +48,7 @@ const DiscussionForum = () => {
             time: "2"
         },
         {
-            image: "",
+            image: "/snow.jpg",
             name: "lorem ipsum",
             content: "Lorem ipsum dolor sitmus sed temporibus magnam doloremque iure dolores accusantium repellat, mollitia expedita eum unde esse. Sit, natus!",
             likes: "2",
